@@ -1,0 +1,70 @@
+{
+  "name": "Motorola_Edge 50 Pro_26mm_30 fps_4k_16by9_3840x2160-30.00fps",
+  "note": "Motioncam",
+  "calibrated_by": "toto moul's",
+  "camera_brand": "Motorola",
+  "camera_model": "Edge 50 Pro",
+  "lens_model": "26mm",
+  "camera_setting": "30 fps",
+  "calib_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "orig_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "output_dimension": {
+    "w": 3840,
+    "h": 2160
+  },
+  "frame_readout_time": 11.03,
+  "frame_readout_direction": "TopToBottom",
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 30.0,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.27175100340408803,
+    "camera_matrix": [
+      [
+        2940.1252247417083,
+        0.0,
+        1902.932654340411
+      ],
+      [
+        0.0,
+        2869.8621897166954,
+        1083.3223894168511
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.576087479478649,
+      -1.2697613174323539,
+      3.5301765519474757,
+      -3.495016513643001
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.3",
+  "date": "2026-04-05",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
